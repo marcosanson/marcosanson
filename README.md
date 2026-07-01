@@ -1,38 +1,74 @@
-### Hi there 👋
+<div align="center">
 
-I'm a Full Stack passionate developer and develon group CTO.
+# 👋 Ciao, sono Marco Sanson
 
-![GitHub](https://badges.aleen42.com/src/github.svg)
-![Node](https://aleen42.github.io/badges/src/node.svg)
+### CTO @ [Develon S.r.l.](https://develon.it) · Infrastructure & AI · Padova 🇮🇹
 
+[![Telegram](https://img.shields.io/badge/💬_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/marcosanson)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcosanson)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcosanson)
 
-![Vue](https://aleen42.github.io/badges/src/vue.svg)
-![Visual studio code](https://badges.aleen42.com/src/visual_studio_code.svg)
+</div>
 
-![JavaScript](https://aleen42.github.io/badges/src/javascript.svg)
-![TypeScript](https://aleen42.github.io/badges/src/typescript.svg)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+---
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+## 🚀 Chi sono
 
-- 🔭 I’m currently working on Google Cloud Platform.
-- 🌱 I’m currently learning about new approach in security access control.
-- 📫 How to reach me: Telegram @marcosanson
+CTO di Develon, infrastrutturista a cuore. Costruisco e mantengo ambienti production con focus su automazione, sicurezza e AI. Tutto parte da Linux, tutto finisce in Kubernetes.
 
+---
 
-<!--
-**marcosanson/marcosanson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tech Stack
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| | |
+|---|---|
+| **Infrastructure** | ![Proxmox](https://img.shields.io/badge/Proxmox-E5700A?style=flat&logo=proxmox&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![systemd](https://img.shields.io/badge/systemd-000000?style=flat&logo=systemd&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) |
+| **OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white) |
+| **AI & Agents** | ![LLM](https://img.shields.io/badge/LLMs-FF6F00?style=flat&logo=openai&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) |
+| **Security** | ![Keycloak](https://img.shields.io/badge/Keycloak-4D83C6?style=flat&logo=keycloak&logoColor=white) ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat&logo=wireguard&logoColor=white) ![CrowdSec](https://img.shields.io/badge/CrowdSec-EF4036?style=flat&logo=crowdsec&logoColor=white) |
+| **Homelab & Domotica** | ![HomeAssistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat&logo=homeassistant&logoColor=white) ![JuiceFS](https://img.shields.io/badge/JuiceFS-0052CC?style=flat&logo=datastore&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) |
+
+</div>
+
+---
+
+## 🏠 Homelab & Domotica
+
+- 🖥️ **Cluster Proxmox** — hyperconverged, K3s/K8s, storage distribuito
+- 🏡 **Home Assistant** — automazioni, sensori, monitoraggio domestico
+- 🔒 **Zero Trust** — Keycloak, WireGuard, CrowdSec, 2FA ovunque
+- 🤖 **AI Agents** — LLM self-hosted, automazioni intelligenti, assistenti personali
+
+---
+
+## 🔥 Progetti in evidenza
+
+| Progetto | Descrizione | Tech |
+|---|---|---|
+| [keycloak-2fa-sms](https://github.com/marcosanson/keycloak-2fa-sms-authenticator) | Autenticazione 2FA SMS per Keycloak | Java |
+| [juicefs-quota-exporter](https://github.com/marcosanson/juicefs-quota-exporter) | Exporter leggero per quote JuiceFS | Python |
+| [awesome-italia-remote](https://github.com/marcosanson/awesome-italia-remote) | Aziende remote-friendly in Italia | — |
+| [hassio-core](https://github.com/marcosanson/hassio-core) | Home Assistant — automazioni domestiche | YAML |
+| [mina-action](https://github.com/marcosanson/mina-action) | Deploy automation | Docker |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosanson&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosanson&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Proxmox per virtualizzare, Kubernetes per orkestrare, AI per automatizzare."*
+
+</div>
