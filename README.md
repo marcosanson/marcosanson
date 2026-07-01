@@ -47,10 +47,7 @@ CTO di Develon, infrastrutturista a cuore. Costruisco e mantengo ambienti produc
 
 | Progetto | Descrizione | Tech |
 |---|---|---|
-| [keycloak-2fa-sms](https://github.com/marcosanson/keycloak-2fa-sms-authenticator) | Autenticazione 2FA SMS per Keycloak | Java |
 | [juicefs-quota-exporter](https://github.com/marcosanson/juicefs-quota-exporter) | Exporter leggero per quote JuiceFS | Python |
-| [awesome-italia-remote](https://github.com/marcosanson/awesome-italia-remote) | Aziende remote-friendly in Italia | — |
-| [hassio-core](https://github.com/marcosanson/hassio-core) | Home Assistant — automazioni domestiche | YAML |
 | [mina-action](https://github.com/marcosanson/mina-action) | Deploy automation | Docker |
 
 ---
@@ -59,9 +56,9 @@ CTO di Develon, infrastrutturista a cuore. Costruisco e mantengo ambienti produc
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosanson&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosanson&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://img.shields.io/github/stars/marcosanson?style=for-the-badge&logo=github&label=Stars&color=yellow)
+![Repos](https://img.shields.io/github/repos/marcosanson?style=for-the-badge&logo=github&label=Repos&color=blue)
+![Followers](https://img.shields.io/github/followers/marcosanson?style=for-the-badge&logo=github&label=Followers&color=purple)
 
 </div>
 
