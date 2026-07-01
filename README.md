@@ -1,8 +1,10 @@
 <div align="center">
 
-# 👋 Ciao, sono Marco Sanson
+# 👋 Marco Sanson
 
-### CTO @ [Develon S.r.l.](https://develon.it) · Infrastructure & AI · Padova 🇮🇹
+### CTO @ [Develon S.r.l.](https://develon.it) — Infrastructure, Security & AI · Padova 🇮🇹
+
+**23 anni a costruire e proteggere infrastrutture su cui altri costruiscono il proprio business.**
 
 [![Telegram](https://img.shields.io/badge/💬_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/marcosanson)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcosanson)
@@ -14,7 +16,26 @@
 
 ## 🚀 Chi sono
 
-CTO di Develon, infrastrutturista a cuore. Costruisco e mantengo ambienti production con focus su automazione, sicurezza e AI. Tutto parte da Linux, tutto finisce in Kubernetes.
+Sono CTO di **Develon**, dove guido un team di **25 persone** tra infrastrutturisti e sviluppatori fullstack. In 23 anni di carriera ho progettato, messo in sicurezza e mantenuto in produzione ambienti per **oltre 600 clienti**, sempre con lo stesso principio: automazione prima, sicurezza sempre, AI dove crea valore reale.
+
+Oggi il mio lavoro quotidiano è su un cluster di **13 nodi Proxmox** che ospitano Kubernetes, servizi self-hosted e agenti AI — lo stesso approccio che porto ai progetti dei clienti, testato prima sulla mia infrastruttura di casa.
+
+**Certificazioni:**
+
+![CCNA](https://img.shields.io/badge/Cisco_Certified-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![CKA](https://img.shields.io/badge/Kubernetes_Certified-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+---
+
+## 📊 In numeri
+
+<div align="center">
+
+| 23+ | 600+ | 25 | 13 |
+|:---:|:---:|:---:|:---:|
+| anni di esperienza | clienti seguiti | persone nel team | nodi Proxmox in produzione |
+
+</div>
 
 ---
 
@@ -38,6 +59,8 @@ CTO di Develon, infrastrutturista a cuore. Costruisco e mantengo ambienti produc
 
 ## 🏠 Homelab & Domotica
 
+Il laboratorio dove testo tutto prima di portarlo dai clienti:
+
 - 🖥️ **Cluster Proxmox** — hyperconverged, K3s/K8s, storage distribuito
 - 🏡 **Home Assistant** — automazioni, sensori, monitoraggio domestico
 - 📺 **Media & Servizi** — Jellyfin, Paperless-ngx, Scrypted (sorveglianza)
@@ -50,8 +73,8 @@ CTO di Develon, infrastrutturista a cuore. Costruisco e mantengo ambienti produc
 
 | Progetto | Descrizione | Tech |
 |---|---|---|
-| [juicefs-quota-exporter](https://github.com/marcosanson/juicefs-quota-exporter) | Exporter leggero per quote JuiceFS | Python |
-| [mina-action](https://github.com/marcosanson/mina-action) | Deploy automation | Docker |
+| [juicefs-quota-exporter](https://github.com/marcosanson/juicefs-quota-exporter) | Exporter Prometheus per monitorare le quote JuiceFS in produzione | Python |
+| [mina-action](https://github.com/marcosanson/mina-action) | Automazione dei deploy pensata per pipeline CI/CD affidabili | Docker |
 
 ---
 
@@ -59,8 +82,6 @@ CTO di Develon, infrastrutturista a cuore. Costruisco e mantengo ambienti produc
 
 <div align="center">
 
-![GitHub Stats](https://img.shields.io/github/stars/marcosanson?style=for-the-badge&logo=github&label=Stars&color=yellow)
-![Repos](https://img.shields.io/github/repos/marcosanson?style=for-the-badge&logo=github&label=Repos&color=blue)
 ![Followers](https://img.shields.io/github/followers/marcosanson?style=for-the-badge&logo=github&label=Followers&color=purple)
 
 </div>
@@ -69,6 +90,6 @@ CTO di Develon, infrastrutturista a cuore. Costruisco e mantengo ambienti produc
 
 <div align="center">
 
-*"Proxmox per virtualizzare, Kubernetes per orkestrare, AI per automatizzare."*
+*"23 anni di infrastrutture mi hanno insegnato una cosa: Proxmox per virtualizzare, Kubernetes per orchestrare, AI per automatizzare — il resto è disciplina."*
 
 </div>
